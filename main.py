@@ -493,8 +493,8 @@ import locale
 
 import re
 
-s = 'Я ищу совпадения в 2025 году. И я их найду в 2 счета'
-reg = 'я'
+# s = 'Я ищу совпадения в 2025 году. И я их найду в 2 счета'
+# reg = 'я'
 
 # print((re.findall(reg, s)))
 # print(re.search(reg, s).span())
